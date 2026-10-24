@@ -1,6 +1,7 @@
 # Guide Ultra-Avançé des Protocoles VPN et de Tunnelisation
 
-<img width="1886" height="1061" alt="3a85df01-aa87-464c-af89-a9590a6dcefe_LE_upscale_prime" src="https://github.com/user-attachments/assets/347ab47e-4b17-4b7c-9e75-25406adeb9c6" />
+<img width="1024" height="576" alt="3a85df01-aa87-464c-af89-a9590a6dcefe" src="https://github.com/user-attachments/assets/6228a90f-a171-4fca-aedd-b5ff97648952" />
+
 
 
 **Auteur :** hackers_tchad  
